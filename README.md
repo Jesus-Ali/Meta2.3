@@ -1,2 +1,2 @@
-# POO
-projectos hechos para la clase: Programacion Orientada a Objetos
+# Meta 2.3. 
+Comportamiento Avanzado en Clases 
