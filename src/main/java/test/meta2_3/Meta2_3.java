@@ -16,5 +16,6 @@ public class Meta2_3 {
         Dados dados = new Dados();
         Baraja baraja = new Baraja();
         Monedas monedas = new Monedas();
+        Calculadora calculadora = new Calculadora();
     }
 }
