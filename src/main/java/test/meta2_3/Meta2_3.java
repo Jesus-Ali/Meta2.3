@@ -12,6 +12,7 @@ package test.meta2_3;
 public class Meta2_3 {
 
     public static void main(String[] args) {
+        System.out.println("hello");
         Envoltorio env = new Envoltorio();
         Dados dados = new Dados();
         Baraja baraja = new Baraja();
